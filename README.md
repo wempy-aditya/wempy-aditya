@@ -1,4 +1,4 @@
-### Hi there, I'm Wempy Aditya Wiryawan - aka [Wempy.tech][website] 👋
+### Hi there, I'm Wempy Aditya Wiryawan - aka [Wempy Tech][website] 👋
 
 [![Website](https://img.shields.io/website?label=Wempy.Tech&style=for-the-badge&url=https%3A%2F%2Fwempy.tech)](https://wempy.tech)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Worked on more projects for practice and increased personal portfolio
 
 ### Connect with me:
 
@@ -46,6 +46,7 @@
 - [Aplikasi Chatting Berbasis Website](https://message.wempy.tech/)
 - [Sistem Pengelolahan Kelas Berbasis Website](https://eclass.wempy.tech/)
 - [Website TodoList Sederhana](https://waw-todolist.herokuapp.com/)
+- [Website Blog Pribadi](https://blog.wempy.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more project posts...](https://wempy.tech)
